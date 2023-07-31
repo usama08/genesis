@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775630055811",
+    "project_id": "newgenesismatrimony-2f516",
+    "storage_bucket": "newgenesismatrimony-2f516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775630055811:android:024ac80e8a67e385b3eeb6",
+        "android_client_info": {
+          "package_name": "updated.genesismatrimony.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775630055811-l94mhkh8dsfte0pqgbj4cvq673u8ogm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_gv5eLSpcEjL35PEL6TCnbtq4Uw2WvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775630055811-l94mhkh8dsfte0pqgbj4cvq673u8ogm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

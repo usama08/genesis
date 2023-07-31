@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Genesis Matrimony</string>
+    <string name="fb_login_protocol_scheme">fb152941174363234</string>
+    <string name="facebook_app_id">152941174363234</string>
+    <string name="facebook_client_token">418c474a20bb922b277ac4575d3c8786</string>
+</resources>
